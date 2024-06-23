@@ -20,3 +20,7 @@
 ### 控制台会输出一段网站 访问 登陆后将跳转到的网站后面的code=后面的token复制到控制台
 ### 4.修改bangumi.py 将bangumi_token和bangumi_user(用户名或bgm id)改成你自己的
 ### 5.运行bangumi.py
+
+## 对于Anilist:
+### 你需要申请anl的CLIENT_ID和CLIENT_SECRET填写到anl_auth.py中
+### 然后运行anl_auth.py 并在bangumi.py中取消注释最下面和anl有关的几行代码
