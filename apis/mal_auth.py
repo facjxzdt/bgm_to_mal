@@ -2,8 +2,8 @@ import json
 import requests
 import secrets
 
-CLIENT_ID = '41dcef27a85fc2f904f1fc6a9e413d68'
-CLIENT_SECRET = '99a0a8c8c759c73d455c03035a2733c21e4e6f946f3c4301bdfdbb2948e5481a'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 
 # 1. Generate a new Code Verifier / Code Challenge.

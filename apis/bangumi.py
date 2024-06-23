@@ -3,8 +3,8 @@ import json
 import requests
 import time
 
-bangumi_token = 'bX2Tsw6x5p5aDosGjJwD5f7Rww5Zq7zqx5s3wUex'
-bangumi_user = 'boompop'
+bangumi_token = ''
+bangumi_user = ''
 
 l1 = {}
 l2 = []
