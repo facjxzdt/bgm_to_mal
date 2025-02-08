@@ -19,19 +19,9 @@
   pip install requests
   ```
 
-## 配置说明
-
-在 `bangumi.py` 中的 `CONFIG` 字典可以修改以下配置：
-
-- `username`: Bangumi 用户名
-- `mal_username`: MyAnimeList 用户名
-- `anilist_username`: AniList 用户名
-- `dandanplay_api_key`: DandanPlay API 密钥
-- `cache_file`: 缓存文件路径
-
 ## 使用方法
 
-1. 首先配置你的 Bangumi token 和用户名
+1. 首先在apis/bangumi.py下配置你的 Bangumi token 和用户名
 [BGM API](https://next.bgm.tv/demo/access-token)
 
 2. 运行程序：
