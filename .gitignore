@@ -1,0 +1,8 @@
+apis/token.json
+apis/anl_token.json
+apis/anime_mappings.json
+apis/anilist_token.json
+.idea/
+.vscode/
+.DS_Store
+.venv/

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  auth_server:
+    build: .
+    container_name: anime_auth_server
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    restart: unless-stopped 
